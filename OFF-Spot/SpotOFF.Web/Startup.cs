@@ -8,9 +8,9 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
-using OFF_Spot.Web.Data;
-using OFF_Spot.Web.Models;
-using OFF_Spot.Web.Services;
+using SpotOFF.Web.Data;
+using SpotOFF.Web.Models;
+using SpotOFF.Web.Services;
 
 namespace SpotOFF.Web
 {
